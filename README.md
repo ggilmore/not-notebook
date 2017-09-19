@@ -11,6 +11,8 @@ computing.
 
 ![Jupyter notebook example](docs/resources/running_code_med.png "Jupyter notebook example")
 
+Test 
+
 ### Jupyter notebook, the language-agnostic evolution of IPython notebook
 Jupyter notebook is a language-agnostic HTML notebook application for
 Project Jupyter. In 2015, Jupyter notebook was released as a part of
